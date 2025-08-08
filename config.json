@@ -88,6 +88,10 @@
     "baidu": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云资源"
+      	},
+    "shandian": {
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
     }
   }
 }
